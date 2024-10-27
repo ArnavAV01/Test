@@ -1,3 +1,3 @@
 # Test
 
-This repository is just for preactice purpose.
+This repository is just for practice purpose.
